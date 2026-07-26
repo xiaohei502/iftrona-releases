@@ -5,10 +5,9 @@
 ## 当前版本
 
 - 版本：1.3
-- 平台：Android
-- 文件：`Iftrona_1.3_Android.apk`
-- 大小：346,001,700 字节（约 330 MiB）
 - 更新日期：2026-07-26
+- Android：`Iftrona_1.3_Android.apk`，346,001,700 字节（约 330 MiB）
+- Windows：`Iftrona_1.3_Windows.zip`，336,795,805 字节（约 321 MiB）
 
 请从右侧 Releases 页面下载安装包，并使用 `SHA256SUMS.txt` 核对文件完整性。
 
