@@ -5,7 +5,7 @@
 ## 稳定版：1.3
 
 - 发布日期：2026-07-25
-- Android：`Iftrona_1.3_Android.apk`，346,001,700 字节（约 330 MiB）
+- Android：`Iftrona_1.3_Android.apk`，332,496,959 字节（约 317 MiB）
 - Windows：`Iftrona_1.3_Windows.zip`，336,795,805 字节（约 321 MiB）
 - 内容：角色语音至第 17 章、56 首 BGM、全书人物信息文档更新与其他体验优化。
 
@@ -15,8 +15,8 @@
 
 - 发布日期：2026-07-27
 - 类型：预发行快照
-- Android：`Iftrona_1.3.2_Android.apk`
-- Windows：`Iftrona_1.3.2_Windows.zip`
+- Android：`Iftrona_1.3.2_Android.apk`，346,001,700 字节（约 330 MiB）
+- Windows：暂无独立快照
 - 说明：收录较多当前制作内容，但仍有不少已知问题，适合尝鲜与反馈。
 
 请从右侧 Releases 页面下载安装包，并使用 `SHA256SUMS.txt` 核对文件完整性。
