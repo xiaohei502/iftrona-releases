@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T22:17:47+08:00",
+  "generated_at": "2026-08-03T22:31:56+08:00",
   "channels": {
     "stable": {
       "enabled": true,
@@ -24,7 +24,7 @@
       }
     },
     "snapshot": {
-      "enabled": false,
+      "enabled": true,
       "message": "版本 1.4 快照版：已审核配音扩展至约第 373 章，新增阅读模式、双语阅读模式、5 首原创歌曲与游戏内自动更新。",
       "version": "1.4",
       "title": "版本 1.4 快照版",
@@ -49,6 +49,6 @@
   "signature": {
     "algorithm": "RSA-SHA256",
     "key_id": "release-2026",
-    "value": "dXU0CDj6UySFJr64AbjumiG/LdJEY4e4F4J5jFgCai4AitcagCGfr0IH35ABR40kLXaBH8pcJ5sHxtCRV+BARkzGp4sOMjBLwwMkaZXzAVwRl+7FKT+fBlycBaRUC8bsWIDnTvpim1beTIPQva0eLXxB5AYoJqeP0zKQBjmK30lXEnD5jXtOrgq72pY+kpReUTlnMzR/MbL5tshT1i4XTrfkGVKpvXuVGtoBCegNwrUrQjaS/vd+ok3AmlSFiRNrbTIskPfERX6j8xQF7eqGRoMkJmDGFug1dRjMotIU8n6rhX8uDoKhcNvnjIktZ/ZBPmgqmy2KorIrq/CsTtUWAnVCkPR6ZC13hJueneFgDtEPt8BjnSYo73UO0/HJbOC1AK57iwnKcUgxNQznjebm/GM4kyLaXa9SCmjOgbykZwi0Sum+0YqkTjqjSI6tPfzJfJEQF+HJUvyEtuKXpddORCSBy+yS0SPqpa+YIjEdI2RgEAR7L7Eq3xwhD802TjS3"
+    "value": "Siam4uvax0GpdFM6dLDM+l4I2NoJxjqWd8JyPyNsN13thYAkHBbIlDcaZQmdG/PruKb+D4MRZA0+lWbwufYQDJAF27BPbzWlnyWSnuD3g/amTanM8CRNy2Idtw+UxKCjpu4mMEInMtqAefHGjg24nssEI/0mn1mFMONzPPWKQYDdE03W87vbc3rmP5gavQVil1UoNX9RfzQjzdE4skCSRpZ7m3pFO6lQHh3O8zhymyLJOaKny339o0UEIoqdS/YcdS0qntQQ4wr8xN3DB+0SjrjvpkNy/NKNLxHSnFUQcI8dOlJKbY9y4XdZu1xuoYeqHhgPbIJQvLOxwgqBAkLPTk6bfViAGXWKI9EHfCgAmbiP4r8D905GhCziU0CKdysqRWDw3+K6RG7DJqObYZ0jhOI533NBpmGKIShbRipRJgkunQa+NARHRyshoHZsNHbqztSZ/gYoi9gj6yf2Hn81QZYZWtsBlrRVGHwhc87FTiPhzFm2+mpu+PmFCCzgynO3"
   }
 }
