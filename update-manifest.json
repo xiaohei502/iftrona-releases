@@ -1,33 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T22:31:56+08:00",
+  "generated_at": "2026-08-03T22:47:47+08:00",
   "channels": {
     "stable": {
       "enabled": true,
-      "message": "版本 1.3 稳定版已开放下载。",
-      "version": "1.3",
-      "title": "版本 1.3 稳定版",
-      "release_page": "https://github.com/xiaohei502/iftrona-releases/releases/tag/v1.3",
-      "platforms": {
-        "android": {
-          "file_name": "Iftrona_1.3_Android.apk",
-          "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.3/Iftrona_1.3_Android.apk",
-          "size": 332496959,
-          "sha256": "462A7FDD36DAA461F995FB1BFEC0DBD24C218D9D8BC018BCE00338628A6A8CC5"
-        },
-        "windows": {
-          "file_name": "Iftrona_1.3_Windows.zip",
-          "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.3/Iftrona_1.3_Windows.zip",
-          "size": 336795805,
-          "sha256": "4FE906D6F2A0BF4ED1E37F9B3FCA7C9781D6556194A9FB145FB782ED208C2E18"
-        }
-      }
-    },
-    "snapshot": {
-      "enabled": true,
-      "message": "版本 1.4 快照版：已审核配音扩展至约第 373 章，新增阅读模式、双语阅读模式、5 首原创歌曲与游戏内自动更新。",
+      "message": "版本 1.4 正式版已开放下载：已审核配音扩展至约第 373 章，新增阅读模式、双语阅读模式、5 首原创歌曲与游戏内自动更新。",
       "version": "1.4",
-      "title": "版本 1.4 快照版",
+      "title": "版本 1.4 正式版",
       "release_page": "https://github.com/xiaohei502/iftrona-releases/releases/tag/v1.4",
       "platforms": {
         "android": {
@@ -43,12 +22,33 @@
           "sha256": "CDB0FF2695E5E8E9324A2C18AC9EBCDBADD924358262CB32AC0E1F41C9CE8438"
         }
       }
+    },
+    "snapshot": {
+      "enabled": false,
+      "message": "1.4 已转为正式版，请切换到稳定版通道。",
+      "version": "1.3.4",
+      "title": "版本 1.3.4 历史快照版",
+      "release_page": "https://github.com/xiaohei502/iftrona-releases/releases/tag/v1.3.4",
+      "platforms": {
+        "android": {
+          "file_name": "Iftrona_1.3.4_Android.apk",
+          "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.3.4/Iftrona_1.3.4_Android.apk",
+          "size": 1450972941,
+          "sha256": "F56A9EFA7959F4A7B590468DE9A0AE8A9A45DD5A2B37A4640F5A621A67218197"
+        },
+        "windows": {
+          "file_name": "Iftrona_1.3.4_Windows.zip",
+          "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.3.4/Iftrona_1.3.4_Windows.zip",
+          "size": 1434478211,
+          "sha256": "C429D42B47CBDA2C65C635C982E1C5EAF31A8428768A071AC82E999044DC113C"
+        }
+      }
     }
   },
   "website_url": "https://iftrona-old-tales.garvillezxo303.chatgpt.site/",
   "signature": {
     "algorithm": "RSA-SHA256",
     "key_id": "release-2026",
-    "value": "Siam4uvax0GpdFM6dLDM+l4I2NoJxjqWd8JyPyNsN13thYAkHBbIlDcaZQmdG/PruKb+D4MRZA0+lWbwufYQDJAF27BPbzWlnyWSnuD3g/amTanM8CRNy2Idtw+UxKCjpu4mMEInMtqAefHGjg24nssEI/0mn1mFMONzPPWKQYDdE03W87vbc3rmP5gavQVil1UoNX9RfzQjzdE4skCSRpZ7m3pFO6lQHh3O8zhymyLJOaKny339o0UEIoqdS/YcdS0qntQQ4wr8xN3DB+0SjrjvpkNy/NKNLxHSnFUQcI8dOlJKbY9y4XdZu1xuoYeqHhgPbIJQvLOxwgqBAkLPTk6bfViAGXWKI9EHfCgAmbiP4r8D905GhCziU0CKdysqRWDw3+K6RG7DJqObYZ0jhOI533NBpmGKIShbRipRJgkunQa+NARHRyshoHZsNHbqztSZ/gYoi9gj6yf2Hn81QZYZWtsBlrRVGHwhc87FTiPhzFm2+mpu+PmFCCzgynO3"
+    "value": "HfO30+VvOCFU5nzhXWYomND6TY6PMLgyXmXK9t+DFec+DqPaM/RkGPGl2FV5U7VbNg3PyagmZJoRMmlxETHMQBVmM1UPafvH1Zn2jgCI5TCH7qYkjUBJPfzLhYs6DKcqcGDWQNVyq4psJA3TkY+J0tz3kfzr/DWy+uP7LGSaBzr1e8a95mKlos5R2dNWnNsjGBj575H94FBtMNv+HKz/84af/qL7+KwQl5vVe9RBbarlMhj+NH7UMQCzrSQiUEyNa4lDtRyaASfNAIAH1pQNPZyjHH/Lro2+WdvfilPCFBJVfBj093Ky0alG5meRwTLk4RAHsgQ+K/zeHo6hfnHjPmwWUoXAccxQ2F8UbqyOAi1gpPJWt2NiNv+J1aIqB+PBhbemFcqPxf6qs5G1eIclW6XLzcppORV1N2F8fOAKixn6WSFrQrwSxf4eIJnt+i1Y5TIJYUkz9mPtB/QbV/H0LBvsUoKBuzG9l4n9njKNACKHjFMOfQOgU7XP0q45wcdU"
   }
 }
