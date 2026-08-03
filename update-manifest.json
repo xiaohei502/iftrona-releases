@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T03:38:30+08:00",
+  "generated_at": "2026-08-03T09:08:07+08:00",
   "channels": {
     "stable": {
       "enabled": true,
@@ -24,8 +24,8 @@
       }
     },
     "snapshot": {
-      "enabled": true,
-      "message": "版本 1.3.4 快照版已开放下载：新审核配音收录范围推进至第 340 章，新增阅读模式、双语阅读模式与 5 首原创配乐。",
+      "enabled": false,
+      "message": "版本 1.3.4 快照版维护中：正在修复 Android 安装包签名，请稍后重试。",
       "version": "1.3.4",
       "title": "版本 1.3.4 快照版",
       "release_page": "https://github.com/xiaohei502/iftrona-releases/releases/tag/v1.3.4",
@@ -33,8 +33,8 @@
         "android": {
           "file_name": "Iftrona_1.3.4_Android.apk",
           "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.3.4/Iftrona_1.3.4_Android.apk",
-          "size": 1450961791,
-          "sha256": "52E5F7A1C1EF49B10E04158C1A95BD79EC1A58B100994AF64E08D4D46C4CDB7F"
+          "size": 1450972941,
+          "sha256": "F56A9EFA7959F4A7B590468DE9A0AE8A9A45DD5A2B37A4640F5A621A67218197"
         },
         "windows": {
           "file_name": "Iftrona_1.3.4_Windows.zip",
@@ -49,6 +49,6 @@
   "signature": {
     "algorithm": "RSA-SHA256",
     "key_id": "release-2026",
-    "value": "TPw0NIhZjecqgjwq9ko6DIDy6cioMGJCsE+++h7LBVY2s1XAZ8e3NXap5CFyIMxAglQmQmq6r9XPg7LA/bB/1ASO+4a05NlK9RkrFYyNBzEK/euuPJ2uhmE2edlJRjCs6wWsXRAzj1x83VYB3RULgRVJ1lTxu3Xibzj8oNz+PBfa/zoFh+YZEiiE6KOpc0svvUZFZzb3XCHpgGMdMbXUyBzzHsjMFURuvXrgGknWBuG7PqwxfOgyw+o6f1fbg8pH4J3S4z8pByrwAj3H+fAYdiM1Jr6Hl3qt18VI9jK/X2g92hKwdhg/ThpE70pvs3xoUhNVHEDDKD8jHzDNHXAd9p6esja0rIG/aGimPQyH3zon0vkI9GIIo+xzFjWmPKujuVL5x58XcqIP/vXTs+CAwAk9TJ+Inx4SinoqqbQO37k781n6eVyBAmBZ1tD5eGk4Yo2CJla+ie9texzuFj47fd03GptlDy5lsPnhIHi1+Lh0YjfBfSe6gjomguwqRTN2"
+    "value": "ayguagB46JWIMUoVoO9VSF2ORN4GJ9Cu1G0LhqitBqgS9plx1nyu4d03J/RWrESADFZbDEFhOmSm43ET2H99J7F+Wju6VxN7/o8f8v92AxdV6U5OVObHTlgsLslXYBqxbufbbTlWgNBtxtwvlug6VNQtZX+F8GcDlBMQR5XTXiGA7Sk48YJ/6ZLZ0bSgVwMdX8q+W3jKdXEI+7xxjY5isO1L8OUsYxS+cW6GFNE+QjMWWMCC2VQJ8kDw5Bchua/bn9mwGfSpd5bXerx7FqQ9HaflOy5odpAizWOKzElBJCHiYY9Ut7HVmFr9nMuHZGZwgS5ar54T31/IRFhD+4nTpYZqJWfP9xL3pFSSHgSv0Z5PLAaw3Y2OiMVLEop5azO6cb439bnDG71MfeqpbkWFii7YHFkeZYWRgm1TPI/+IIvyMfxzh3YLnSFNvjQHbmr5I7CG0S0JBh+bis6UlcRraJUotKJ487bg0aQtBTet/pQmUyh7ZioUy81Hs64rSNXZ"
   }
 }
