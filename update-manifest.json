@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T08:00:50+00:00",
+  "generated_at": "2026-11-13T18:42:21+01:00",
   "channels": {
     "stable": {
       "enabled": true,
@@ -25,22 +25,22 @@
     },
     "snapshot": {
       "enabled": true,
-      "message": "1.4.1 快照版已开放下载：更新第一章的舞台表现与阅读体验，优化章节阅读模式与章末衔接。",
-      "version": "1.4.1",
-      "title": "版本 1.4.1 快照版",
-      "release_page": "https://github.com/xiaohei502/iftrona-releases/releases/tag/v1.4.1",
+      "message": "1.5快照版：开篇美术与演出更新、声音编排至前约50章、96首BGM、界面声音与过渡动画、Android后台音乐和两个小游戏。仍有已知问题，欢迎尝鲜反馈。",
+      "version": "1.5",
+      "title": "版本 1.5 · 快照版",
+      "release_page": "https://github.com/xiaohei502/iftrona-releases/releases/tag/v1.5",
       "platforms": {
         "android": {
-          "file_name": "Iftrona_1.4.1_Android.apk",
-          "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.4.1/Iftrona_1.4.1_Android.apk",
-          "size": 1651465931,
-          "sha256": "D54CAAC74CD0015EE2A12639F8E7217C5ABB283EC0E094196F9F7AAC8ABE02AE"
+          "file_name": "Iftrona_1.5_Android.apk",
+          "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.5/Iftrona_1.5_Android.apk",
+          "size": 2040228092,
+          "sha256": "A875821F1B38A128A755EB43FB2B93A3C2749F0AB9106D8B6042D0D3485E606C"
         },
         "windows": {
-          "file_name": "Iftrona_1.4.1_Windows.zip",
-          "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.4.1/Iftrona_1.4.1_Windows.zip",
-          "size": 1626656234,
-          "sha256": "10F411CD7289EA113BA78B4F0B3E613A4EFF398BC15E7A08274A5FBBA36205C7"
+          "file_name": "Iftrona_1.5_Windows.zip",
+          "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.5/Iftrona_1.5_Windows.zip",
+          "size": 1659791869,
+          "sha256": "C49113123F6C67330865C7A350AF89F8AB91998BF46792B5EB2B2FD2F6058CFF"
         }
       }
     }
@@ -49,6 +49,6 @@
   "signature": {
     "algorithm": "RSA-SHA256",
     "key_id": "release-2026",
-    "value": "eCsSTReyZtAjB6YEbHw3hN5hHFcedrzs08PTS3wOLFfQQ1G5pfX2UJL3pAV0yoasv+hDKGAKnA4tYUK6p2DipQIFxw4Ji89EhEHd1C4KVJqH1bjlkdh+8Jai2DTeSA8CTHQSbYUpRqBG6IWf3iUEMT5lXSDP3RVpJkU4ajinQ9xY5e+1rRONCt3F+73B9ztpp8kmfQr3eVj2I7GRPl31MTE8EnOLb/BMIfIvE5h6k5IYJ6iRFSUtWWpCO7/tjKgD2uR/UEK52Rny/GIZ60COGRLeEjBUjQPebDdvPu6QgxZo9Rj+UtnvMF0UQ4kYY1J6GAiPtDK8YPP8G396sk0+SveayGQsxzZ/VEyg2vsHBcz5o53SjJAVWjEY6l79uAvD6wmgPTk/AC5lguZSJvwQ27g2n6vv2Vyiz7d2OxCxT4fjKt/nOWvn9mkttzql4ZdEM7UOBnqImuVwKGZl4eZ/92yWH96+3Ooy9dC2LNb+APoPTeewi4kD0hg8+DAbws6J"
+    "value": "nclX8mjdal7P+G/VVysEok9RFefgpFmTX/blTWb8U4/+fcJV4uTE1uAmBkGjjoX+g4Locf0p9TxEXkELylxuCq0MlpE1qXRoyVySvHowRgK86M8/rzeH6w8Rs46x1Q0HO31u+znjZsVc3d1c5PmMqSL96yh7uqzwPEc7CBJeKHkt4Zfjb7vV1ppfMntr6/Rh6q9MLAJ4RXBaVL8AUGYSkyz0N7J/3Q3VgL2alUH59MSHzeWdWhugovIONutheePdGZD34JYedziOhZFb/xlch9QeXO6hHDoqEJMQEpqzS+PrfFPYMcgQobb/xsfkFph2hMKdNqj7hSwwZfwsYcRw8jLAIAapNfvlj56iFIEQXkBWOEbjGmziKwUsvbWTFKVc0JqPIzoKEa84B8WO6U5LdxDwrOOLjV6xxiVSLxCX7EaQ/aiapeH2KupOAMktZPTmhYE1S2KdPUf2uk1zjF8WoAonX6f6LrpWGl6bUGcvAfUEPyMlnATJXj7NDoqtOQhr"
   }
 }
