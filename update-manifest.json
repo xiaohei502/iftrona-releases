@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T18:42:21+01:00",
+  "generated_at": "2026-11-14T18:08:19+01:00",
   "channels": {
     "stable": {
       "enabled": true,
@@ -42,6 +42,55 @@
           "size": 1659791869,
           "sha256": "C49113123F6C67330865C7A350AF89F8AB91998BF46792B5EB2B2FD2F6058CFF"
         }
+      },
+      "content_update": {
+        "enabled": true,
+        "version": "1.6.1",
+        "title": "1.6.1 增量更新测试",
+        "message": "本次仅验证小补丁更新。下载准备完成后，请完全退出游戏再打开，确认内容版本为 1.6.1。",
+        "release_page": "https://github.com/xiaohei502/iftrona-releases/releases/tag/v1.6.1",
+        "platforms": {
+          "android": {
+            "kind": "content_patch",
+            "schema_version": 1,
+            "base_id": "iftrona-1.6-20261114",
+            "version": "1.6.1",
+            "platform": "android",
+            "engine_version": "4.7.2",
+            "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.6.1/Iftrona_content_1.6.1_Android.zip",
+            "file_name": "Iftrona_content_1.6.1_Android.zip",
+            "size": 198,
+            "sha256": "f0d537885c1a7c7baa712d4a9dc45e8edff3f75780ab5bb1c27e7eb4f0ff1137",
+            "entries": [
+              {
+                "path": "content/update_probe/smoke_161.txt",
+                "size": 32,
+                "sha256": "4995c677aad86f855831ca9a133a3d2c6025bf3e2e8b809ecd68ed3c2db81862"
+              }
+            ],
+            "unpacked_size": 32
+          },
+          "windows": {
+            "kind": "content_patch",
+            "schema_version": 1,
+            "base_id": "iftrona-1.6-20261114",
+            "version": "1.6.1",
+            "platform": "windows",
+            "engine_version": "4.7.2",
+            "url": "https://github.com/xiaohei502/iftrona-releases/releases/download/v1.6.1/Iftrona_content_1.6.1_Windows.zip",
+            "file_name": "Iftrona_content_1.6.1_Windows.zip",
+            "size": 198,
+            "sha256": "f0d537885c1a7c7baa712d4a9dc45e8edff3f75780ab5bb1c27e7eb4f0ff1137",
+            "entries": [
+              {
+                "path": "content/update_probe/smoke_161.txt",
+                "size": 32,
+                "sha256": "4995c677aad86f855831ca9a133a3d2c6025bf3e2e8b809ecd68ed3c2db81862"
+              }
+            ],
+            "unpacked_size": 32
+          }
+        }
       }
     }
   },
@@ -49,6 +98,6 @@
   "signature": {
     "algorithm": "RSA-SHA256",
     "key_id": "release-2026",
-    "value": "nclX8mjdal7P+G/VVysEok9RFefgpFmTX/blTWb8U4/+fcJV4uTE1uAmBkGjjoX+g4Locf0p9TxEXkELylxuCq0MlpE1qXRoyVySvHowRgK86M8/rzeH6w8Rs46x1Q0HO31u+znjZsVc3d1c5PmMqSL96yh7uqzwPEc7CBJeKHkt4Zfjb7vV1ppfMntr6/Rh6q9MLAJ4RXBaVL8AUGYSkyz0N7J/3Q3VgL2alUH59MSHzeWdWhugovIONutheePdGZD34JYedziOhZFb/xlch9QeXO6hHDoqEJMQEpqzS+PrfFPYMcgQobb/xsfkFph2hMKdNqj7hSwwZfwsYcRw8jLAIAapNfvlj56iFIEQXkBWOEbjGmziKwUsvbWTFKVc0JqPIzoKEa84B8WO6U5LdxDwrOOLjV6xxiVSLxCX7EaQ/aiapeH2KupOAMktZPTmhYE1S2KdPUf2uk1zjF8WoAonX6f6LrpWGl6bUGcvAfUEPyMlnATJXj7NDoqtOQhr"
+    "value": "er55nrk8bE1CLiIVTqvkixVOIYnniPpiwNcu9F0eFZVrrTRzMtV1CD0869fFTlyEjO4hvqiw/PfAg5UzNdbW3s6SoUWM+z/ZMjy+/wy36c+j4xYycuKZ1eTNAV75C+hbvTZAeB7Wv97i1a/iaaJ1kr/x22ENPW2Zh6y6X1EA87TXuhIVRMoSpo+g/8mE1hRlvNbNxs88BjMJkgK2LfIBJeq5huvORTW/dGFUmoS34zoYp/l8dgubAymYJ+yp/mdrvppfPYKkakHYml4Y23ptijOU70JAkiAVofVSbZxd+LJge3954BqbJgAc7jQTX4Yg4zztYr1koaZCCBe/bkVVeqTnHM35nIao0PwEwX0Nc/A3M17vQnJ478HxxJPpFbV9tXpMrvsYa9Ha5Md0gJG6sG4yNY884soz2KF3Fu7DZAPiTu09BrJI9KyxXbP7VKD/w4t9+iVbBpiyfBnFgmNaF0Tb1twVaxrJiTdFev4ZehwKoDGGTF2E04d31wCnDCrE"
   }
 }
